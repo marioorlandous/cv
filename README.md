@@ -1,2 +1,2 @@
 # cv
-Curricuum Vitae
+Curriculum Vitae
